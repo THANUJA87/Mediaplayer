@@ -1,0 +1,85 @@
+{
+  "uploadVedios": [
+    {
+      "id": "4700",
+      "caption": "Christmas Song",
+      "imageUrl": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842c6679e75b0cfef5760d89ae",
+      "youtubeLink": "https://www.youtube.com/embed/twz6KjoRfns"
+    },
+    {
+      "id": "3d12",
+      "caption": "Sookshmadarshini",
+      "imageUrl": "https://i.ytimg.com/vi/yUhofHpi8bc/sddefault.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/yUhofHpi8bc"
+    }
+  ],
+  "category": [
+    {
+      "catgoryName": "trailer",
+      "allVedios": [],
+      "id": 1
+    },
+    {
+      "catgoryName": "tv",
+      "allVedios": [
+        {
+          "id": "9b2d",
+          "caption": "Onam Song",
+          "imageUrl": "https://i.scdn.co/image/ab67616d0000b273901044ed82877b279dd9ba70",
+          "youtubeLink": "https://www.youtube.com/embed/gEKtWARMAVg"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "id": "0b1a",
+      "caption": "Vazha",
+      "youtubeLink": "https://www.youtube.com/embed/87IzSX3PpuA",
+      "timeStamp": "12/19/2024, 1:29:38 PM GMT+5:30"
+    },
+    {
+      "id": "f519",
+      "caption": "Vazha",
+      "youtubeLink": "https://www.youtube.com/embed/87IzSX3PpuA",
+      "timeStamp": "12/19/2024, 1:29:54 PM GMT+5:30"
+    },
+    {
+      "id": "38f3",
+      "caption": "Vazha",
+      "youtubeLink": "https://www.youtube.com/embed/87IzSX3PpuA",
+      "timeStamp": "12/19/2024, 2:00:35 PM GMT+5:30"
+    },
+    {
+      "id": "b445",
+      "caption": "Vazha",
+      "youtubeLink": "https://www.youtube.com/embed/87IzSX3PpuA",
+      "timeStamp": "12/20/2024, 12:10:05 PM GMT+5:30"
+    },
+    {
+      "caption": "Leo",
+      "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "12/30/2024, 1:20:37 PM GMT+5:30",
+      "id": "zvJArbJ"
+    },
+    {
+      "caption": "Sooshmadarshini",
+      "youtubeLink": "https://www.youtube.com/embed/IrkfzvO9LkE",
+      "timeStamp": "12/30/2024, 8:37:09 PM GMT+5:30",
+      "id": "3Rvk3aO"
+    },
+    {
+      "caption": "Christmas Song",
+      "youtubeLink": "https://www.youtube.com/embed/twz6KjoRfns",
+      "timeStamp": "12/30/2024, 8:37:26 PM GMT+5:30",
+      "id": "sI0mwoq"
+    },
+    {
+      "caption": "Sooshmadarshini",
+      "youtubeLink": "https://www.youtube.com/embed/IrkfzvO9LkE",
+      "timeStamp": "12/30/2024, 10:45:42 PM GMT+5:30",
+      "id": "qFvI4mt"
+    }
+  ]
+}
